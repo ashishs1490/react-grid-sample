@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ashishs1490/react-grid-sample/static/css/main.5065140f.chunk.css",
-    "main.js": "/ashishs1490/react-grid-sample/static/js/main.ed675e73.chunk.js",
-    "main.js.map": "/ashishs1490/react-grid-sample/static/js/main.ed675e73.chunk.js.map",
-    "runtime~main.js": "/ashishs1490/react-grid-sample/static/js/runtime~main.33cdac77.js",
-    "runtime~main.js.map": "/ashishs1490/react-grid-sample/static/js/runtime~main.33cdac77.js.map",
-    "static/css/2.ac9aa0ed.chunk.css": "/ashishs1490/react-grid-sample/static/css/2.ac9aa0ed.chunk.css",
-    "static/js/2.f7669f91.chunk.js": "/ashishs1490/react-grid-sample/static/js/2.f7669f91.chunk.js",
-    "static/js/2.f7669f91.chunk.js.map": "/ashishs1490/react-grid-sample/static/js/2.f7669f91.chunk.js.map",
-    "index.html": "/ashishs1490/react-grid-sample/index.html",
-    "precache-manifest.532f1552151e309e4087ce7cd3e6d2e5.js": "/ashishs1490/react-grid-sample/precache-manifest.532f1552151e309e4087ce7cd3e6d2e5.js",
-    "service-worker.js": "/ashishs1490/react-grid-sample/service-worker.js",
-    "static/css/2.ac9aa0ed.chunk.css.map": "/ashishs1490/react-grid-sample/static/css/2.ac9aa0ed.chunk.css.map",
-    "static/css/main.5065140f.chunk.css.map": "/ashishs1490/react-grid-sample/static/css/main.5065140f.chunk.css.map"
+    "main.css": "/react-grid-sample/static/css/main.5065140f.chunk.css",
+    "main.js": "/react-grid-sample/static/js/main.aa03ad4c.chunk.js",
+    "main.js.map": "/react-grid-sample/static/js/main.aa03ad4c.chunk.js.map",
+    "runtime~main.js": "/react-grid-sample/static/js/runtime~main.83a0b59d.js",
+    "runtime~main.js.map": "/react-grid-sample/static/js/runtime~main.83a0b59d.js.map",
+    "static/css/2.ac9aa0ed.chunk.css": "/react-grid-sample/static/css/2.ac9aa0ed.chunk.css",
+    "static/js/2.f7669f91.chunk.js": "/react-grid-sample/static/js/2.f7669f91.chunk.js",
+    "static/js/2.f7669f91.chunk.js.map": "/react-grid-sample/static/js/2.f7669f91.chunk.js.map",
+    "index.html": "/react-grid-sample/index.html",
+    "precache-manifest.69c51588a99b854ddf355c8a77ad0f91.js": "/react-grid-sample/precache-manifest.69c51588a99b854ddf355c8a77ad0f91.js",
+    "service-worker.js": "/react-grid-sample/service-worker.js",
+    "static/css/2.ac9aa0ed.chunk.css.map": "/react-grid-sample/static/css/2.ac9aa0ed.chunk.css.map",
+    "static/css/main.5065140f.chunk.css.map": "/react-grid-sample/static/css/main.5065140f.chunk.css.map"
   }
 }
